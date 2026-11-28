@@ -9,5 +9,16 @@
     "imageUrl": "https://raw.githubusercontent.com/ahmedsayed-ops/ai-tips-assets/main/lessons/AI_EVERYDAY_2026-11-26.jpg",
     "approvedBy": "ahmedsayed-ops",
     "qa": "PASS"
+  },
+  {
+    "date": "2026-11-28",
+    "lessonNumber": 3,
+    "category": "AI Productivity",
+    "topic": "Summarize long meeting transcripts instantly",
+    "title": "Instant Meeting Summaries",
+    "tip": "Ask your AI assistant to extract key action items and decisions from raw notes instantly.",
+    "imageUrl": "https://raw.githubusercontent.com/ahmedsayed-ops/ai-tips-assets/main/lessons/AI_EVERYDAY_2026-11-28.jpg",
+    "approvedBy": "ahmedsayed-ops",
+    "qa": "PASS"
   }
 ]
